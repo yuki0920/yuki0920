@@ -10,8 +10,8 @@
 [![](https://raw.githubusercontent.com/yuki0920/yuki0920/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## My Portfolio
-### https://company-ranking.net/
-- Title(in English): Listed Company Ranking
+### https://www.company-ranking.net
+- Title(in English): Japan Listed Companies
 - Title(in Japanese): 上場企業ランキング
-- Description: Website of Japanese listed companies. You can see rankings by sales, profits and salaries.
-- Tech Stack: Ruby on Rails, Nuxt.js, TypeScript
+- Description: Website of Japanese listed companies. You can see rankings by sales, profits and salaries by English or Japanese.
+- Tech Stack: Go, Next.js
