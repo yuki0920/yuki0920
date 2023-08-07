@@ -14,4 +14,4 @@
 - Title(in English): Japan Listed Companies
 - Title(in Japanese): 上場企業ランキング
 - Description: Website of Japanese listed companies. You can see rankings by sales, profits and salaries by English or Japanese.
-- Tech Stack: Go, Next.js
+- Tech Stack: Ruby, Go, Next.js
