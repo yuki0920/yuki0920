@@ -1,13 +1,8 @@
 ## Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img display="block" src="https://github-readme-stats.vercel.app/api?username=yuki0920&count_private=true&show_icons=true" />
-</a>
 
-<br>
-
-[![](https://raw.githubusercontent.com/yuki0920/yuki0920/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/yuki0920/yuki0920/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://github-readme-stats.vercel.app/api?username=yuki0920&count_private=true&theme=buefy&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuki0920&count_private=true&theme=buefy&layout=compact)
 
 ## My Portfolio
 ### https://www.company-ranking.net
